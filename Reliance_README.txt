@@ -2,13 +2,11 @@
 # Reliance Stock Price Prediction
 
 ## 📖 Project Overview
-This project aims to predict Reliance stock prices using a combination of LSTM and GRU models with an Attention mechanism and ensemble learning.
+This project aims to predict Reliance stock prices using GRU models.
 
 ## 🚀 Techniques Used
-- LSTM (Long Short-Term Memory) for capturing long-term dependencies  
+ 
 - GRU (Gated Recurrent Unit) for faster training and handling short-term patterns  
-- Attention Mechanism to focus on key market signals  
-- Ensemble Learning for improving prediction stability  
 
 ## 🔎 Methodology
 - Data Preprocessing
@@ -22,16 +20,16 @@ This project aims to predict Reliance stock prices using a combination of LSTM a
 ## 🛠️ How to Run
 1. Clone the repository:  
 ```
-git clone https://github.com/ArkapratimDas0707/Reliance_StockPrice.git
+git clone https://github.com/ArkapratimDas0707/Reliance_StockPrice_Prediction.git
 cd Stock_Price_Prediction_Ensemble
 ```
 2. Run the notebook:  
 ```
-jupyter notebook Reliance_StockPrice.ipynb
+jupyter notebook Reliance_StockPrice_Prediction.ipynb
 ```
 
 ## ✅ Key Takeaways
-- Successfully built an ensemble model combining LSTM and GRU with Attention.  
+- Successfully built an GRU that accurately predicts stock prices.
  
 ## 🌟 Future Improvements
 - Experiment with higher number of epochs if apprpriate hardware is available.
